@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melissamorganc&layout=compact)](https://github.com/melissamorganc/github-readme-stats)
 [![melissamorganc's GitHub stats](https://github-readme-stats.vercel.app/api?username=melissamorganc)](https://github.com/melissamorganc/github-readme-stats)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![CodeWars Badge](https://www.codewars.com/users/melissamorganc/badges/large)
